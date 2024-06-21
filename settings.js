@@ -1,4 +1,4 @@
-//base by .𝛥𝑅𝑌𝛥𝛮-𝑅𝛥𝐽𝛲𝛩𝛩𝑇
+//base by 𝛥𝑅𝑌𝛥𝛮-𝑅𝛥𝐽𝛲𝛩𝛩𝑇
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @aryanedit3688
 //Instagram: aryanrajpoot_375
