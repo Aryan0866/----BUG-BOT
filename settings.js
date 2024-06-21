@@ -18,7 +18,7 @@ global.location = "Pakistan, Islamabad"
 
 global.ownernumber = '923187842447'  //creator number
 global.ownername = '🐛𝛥𝑅𝑌𝛥𝛮 𝑅𝛥𝐽𝛲𝛩𝛩𝑇' //owner name
-global.botname = '𝑅𝛥𝐽𝛲𝛩𝛩𝑇-𝛭𝐷 ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.botname = 'RAJPOOT-MD-BUG-BOT' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -29,7 +29,7 @@ global.themeemoji = '🪀'
 global.wm = "Youtube aryanedit3688."
 
 //theme link
-global.link = 'https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu'
+global.link = 'https://chat.whatsapp.com/IcqWhTW0vgw4A4N1IPA03J'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -40,7 +40,7 @@ global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
-global.anti212 = false //auto block +92 
+global.anti212 = false //auto block +212 
 global.autoswview = true //auto view status/story
 
 //menu type 
