@@ -1,11 +1,11 @@
-//base by Tohid-khan
+//base by .𝛥𝑅𝑌𝛥𝛮-𝑅𝛥𝐽𝛲𝛩𝛩𝑇
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @tohidkhan_6332
-//Instagram: tohidkhan6332
-//Telegram: t.me/@tohid_mewati
-//GitHub: @tohidkhan6332
-//WhatsApp: +917849917350
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@tohidkhan_6332
+//YouTube: @aryanedit3688
+//Instagram: aryanrajpoot_375
+//Tiktok: aryanrajpoot375
+//GitHub: @Aryan0866
+//WhatsApp: +923187842447
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@aryanedit3688
 
 const { default: makeWaSocket, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
